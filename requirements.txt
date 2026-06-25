@@ -1,0 +1,17 @@
+asgiref==3.11.1
+beautifulsoup4==4.14.3
+certifi==2026.1.4
+charset-normalizer==3.4.4
+Django==6.0.6
+greenlet==3.3.2
+idna==3.11
+pygame==2.6.1
+requests==2.32.5
+setuptools==75.8.0
+soupsieve==2.8.3
+SQLAlchemy==2.0.48
+sqlparse==0.5.5
+typing_extensions==4.15.0
+tzdata==2026.2
+urllib3==2.6.3
+wheel==0.45.1
